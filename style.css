@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(160, 255, 255);
+    font-family: 'Comic Neue', cursive;
+
+}
+
+img{
+    width:200px;
+    height:200px;
+}
+p{
+ font-family:'Roboto Condensed', sans-serif;
+ font-weight: bold;
+ font-size: 105%;
+ letter-spacing: 2px;
+}
+.header-div{
+    background-color: rgb(0, 136, 136);
+    color:white;
+
+}
+.footer{
+    background-color: rgb(0, 255, 255);
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align: center;
+}
+.main_div{
+    font-weight:bolder;
+    font-size:125%;
+    margin-top: 0%;
+    letter-spacing:2px;
+}
